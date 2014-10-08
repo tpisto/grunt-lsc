@@ -46,6 +46,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "LiveScript": "git://github.com/gkz/LiveScript.git#934ef45473dc7db143a8c2fd62c6ebfbedd84eec"
+    "LiveScript": "1.3.0"
   }
 }
